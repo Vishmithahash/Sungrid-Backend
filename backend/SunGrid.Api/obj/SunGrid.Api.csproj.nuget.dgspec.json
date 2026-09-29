@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus Vivobook\\Desktop\\EAD LAST\\backend\\Sungrid-Backend\\backend\\SunGrid.Api\\SunGrid.Api.csproj": {}
+    "C:\\Users\\Vishmitha Hashendra\\OneDrive - Sri Lanka Institute of Information Technology\\Desktop\\Sungrid\\Sungrid-Backend\\backend\\SunGrid.Api\\SunGrid.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus Vivobook\\Desktop\\EAD LAST\\backend\\Sungrid-Backend\\backend\\SunGrid.Api\\SunGrid.Api.csproj": {
+    "C:\\Users\\Vishmitha Hashendra\\OneDrive - Sri Lanka Institute of Information Technology\\Desktop\\Sungrid\\Sungrid-Backend\\backend\\SunGrid.Api\\SunGrid.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus Vivobook\\Desktop\\EAD LAST\\backend\\Sungrid-Backend\\backend\\SunGrid.Api\\SunGrid.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Vishmitha Hashendra\\OneDrive - Sri Lanka Institute of Information Technology\\Desktop\\Sungrid\\Sungrid-Backend\\backend\\SunGrid.Api\\SunGrid.Api.csproj",
         "projectName": "SunGrid.Api",
-        "projectPath": "C:\\Users\\Asus Vivobook\\Desktop\\EAD LAST\\backend\\Sungrid-Backend\\backend\\SunGrid.Api\\SunGrid.Api.csproj",
-        "packagesPath": "C:\\Users\\Asus Vivobook\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus Vivobook\\Desktop\\EAD LAST\\backend\\Sungrid-Backend\\backend\\SunGrid.Api\\obj\\",
+        "projectPath": "C:\\Users\\Vishmitha Hashendra\\OneDrive - Sri Lanka Institute of Information Technology\\Desktop\\Sungrid\\Sungrid-Backend\\backend\\SunGrid.Api\\SunGrid.Api.csproj",
+        "packagesPath": "C:\\Users\\Vishmitha Hashendra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vishmitha Hashendra\\OneDrive - Sri Lanka Institute of Information Technology\\Desktop\\Sungrid\\Sungrid-Backend\\backend\\SunGrid.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus Vivobook\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Vishmitha Hashendra\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
