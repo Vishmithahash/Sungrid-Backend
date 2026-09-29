@@ -1,0 +1,27 @@
+## Visual Studio / .NET ignores
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+[Bb]in/
+[Ob]j/
+.vs/
+.idea/
+.vscode/
+
+## Secrets & local environment settings
+appsettings.Local.json
+*.local.json
+*.secrets.json
+secrets.json
+.env
+
+## Publish & artifact outputs
+artifacts/
+publish/
+[Ll]ogs/
+*.log
+
+## OS files
+Thumbs.db
+[Dd]esktop.ini
